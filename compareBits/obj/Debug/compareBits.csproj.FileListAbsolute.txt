@@ -1,0 +1,10 @@
+C:\Users\ano\source\repos\compareBits\compareBits\bin\Debug\compareBits.exe.config
+C:\Users\ano\source\repos\compareBits\compareBits\bin\Debug\compareBits.exe
+C:\Users\ano\source\repos\compareBits\compareBits\bin\Debug\compareBits.pdb
+C:\Users\ano\source\repos\compareBits\compareBits\obj\Debug\compareBits.csprojAssemblyReference.cache
+C:\Users\ano\source\repos\compareBits\compareBits\obj\Debug\compareBits.Form1.resources
+C:\Users\ano\source\repos\compareBits\compareBits\obj\Debug\compareBits.Properties.Resources.resources
+C:\Users\ano\source\repos\compareBits\compareBits\obj\Debug\compareBits.csproj.GenerateResource.cache
+C:\Users\ano\source\repos\compareBits\compareBits\obj\Debug\compareBits.csproj.CoreCompileInputs.cache
+C:\Users\ano\source\repos\compareBits\compareBits\obj\Debug\compareBits.exe
+C:\Users\ano\source\repos\compareBits\compareBits\obj\Debug\compareBits.pdb
